@@ -11,7 +11,7 @@ namespace TestProject1
 
             var result = controler.Get();
 
-            Assert.True(result.Count() >  0);
+            Assert.True(result.Any());
         } 
     }
 }  
