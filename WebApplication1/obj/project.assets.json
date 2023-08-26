@@ -553,11 +553,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\leonardo.bezerra\\source\\repos\\WebApplication1\\WebApplication1\\WebApplication1.csproj",
+      "projectUniqueName": "C:\\Users\\leonardo.bezerra\\source\\repos\\WebApplication\\WebApplication1\\WebApplication1.csproj",
       "projectName": "WebApplication1",
-      "projectPath": "C:\\Users\\leonardo.bezerra\\source\\repos\\WebApplication1\\WebApplication1\\WebApplication1.csproj",
+      "projectPath": "C:\\Users\\leonardo.bezerra\\source\\repos\\WebApplication\\WebApplication1\\WebApplication1.csproj",
       "packagesPath": "C:\\Users\\leonardo.bezerra\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\leonardo.bezerra\\source\\repos\\WebApplication1\\WebApplication1\\obj\\",
+      "outputPath": "C:\\Users\\leonardo.bezerra\\source\\repos\\WebApplication\\WebApplication1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\leonardo.bezerra\\AppData\\Roaming\\NuGet\\NuGet.Config",
