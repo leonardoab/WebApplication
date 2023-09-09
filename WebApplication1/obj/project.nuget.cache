@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "vd2HXEZH9B5Ok9ahf4sGgJ0aOjy12wkkmEDKY/GNFgHIBxWNmdCvSpPe1wmy2WCzwG2LG2yNpf2knj8nnFc/fw==",
+  "dgSpecHash": "UzoIRqnF4ZIXU4Cw1w5go5efho9AVNBlCqeMMbgO38r2VHSBgwYQafx1P5ViCKtALDQdSXa8S7IK2dhkSrtZCw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\leonardo.bezerra\\source\\repos\\WebApplication1\\WebApplication1\\WebApplication1.csproj",
+  "projectFilePath": "C:\\Users\\leonardo.bezerra\\source\\repos\\WebApplication\\WebApplication1\\WebApplication1.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\leonardo.bezerra\\.nuget\\packages\\microsoft.aspnetcore.openapi\\7.0.0\\microsoft.aspnetcore.openapi.7.0.0.nupkg.sha512",
     "C:\\Users\\leonardo.bezerra\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
