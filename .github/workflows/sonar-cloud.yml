@@ -3,6 +3,7 @@ on:
   push:
     branches:
       - feature/* 
+      - master
 jobs:
   build:
     name: Build and analyze
