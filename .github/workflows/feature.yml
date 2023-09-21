@@ -5,10 +5,10 @@ name: .NET
 
 on:
   push:
-    branches: [ "feature/*" ]
+    branches: [ "feature/*", "main"  ]
   
 
-jobs:
+jobs: 
   build:
 
     runs-on: ubuntu-latest
